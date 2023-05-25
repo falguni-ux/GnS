@@ -1,0 +1,102 @@
+body{
+    background-color:#F8E8EE;
+    margin:0;
+}
+.navbar{
+    background-color: #FDCEDF;
+    height:50px;
+    position: relative;
+    border-bottom: groove;
+}
+.navbarlogo{
+    background-color: #FDCEDF;
+    height:50px;
+    width:50px;
+    display:inline-block;
+    position: absolute;
+}
+.navbarcontent{
+    background-color: #FDCEDF;
+    height:50px;
+    left:50px;
+    top:0;
+    display:inline-block;
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+}
+.gnslogo{
+    height:50px;
+    width:50px;
+    background-color: #FDCEDF;
+}
+p{
+    display:inline-block;
+    
+}
+.ncontent{
+    display:inline-block;
+    color: rgb(154, 151, 151);
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+}
+.logos{
+    display:inline-block;
+    background-color: transparent;
+    position: absolute;
+    right:0px;
+    height: 50px;
+    margin-top: 0;
+}
+.smalllogos{
+    height:30px;
+    width:30px;
+    background-color:#FDCEDF;
+    margin-top: 10px;
+}
+.logo{
+    margin-top: 0;
+    background-color:#FDCEDF ;
+    margin-right: 10px;
+
+}
+.cover1{
+    background-color: #F2BED1;
+    height:500px;
+    margin: 0;
+    background-image: url("images/bgimage2.png");;
+}
+.cover11{
+    
+    height:300px;
+    width:700px;
+    padding:100px;
+    margin: 0;
+}
+.covergns{
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+}
+.coverp{
+    font-family: "Open Sans", sans-serif;
+}
+.ourteam{
+    color: black;
+    text-decoration: none;
+    border: solid;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: "Open Sans", sans-serif;
+}
+.cover2{
+    background-color: #F8E8EE;
+    height:500px;
+    margin: 0;
+    
+}
